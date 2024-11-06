@@ -2,5 +2,8 @@
   "name": "@jpravetz/bmod",
   "version": "1.0.0",
   "description": "Test B module",
-  "exports": "./mod.ts"
+  "exports": "./mod.ts",
+  "imports": {
+    "xxx": "./../amod/mod.ts"
+  }
 }

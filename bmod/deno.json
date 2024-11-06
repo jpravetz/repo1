@@ -1,0 +1,9 @@
+{
+  "name": "@jpravetz/bmod",
+  "version": "1.0.0",
+  "description": "Test B module",
+  "exports": "./mod.ts",
+  "imports": {
+    "@scope/amod": "../amod/mod.ts"
+  }
+}

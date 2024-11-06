@@ -1,0 +1,7 @@
+{
+  "name": "@jpravetz/amod",
+  "version": "1.0.0",
+  "description": "Test module",
+  "exports": "./mod.ts",
+  "imports": {}
+}
